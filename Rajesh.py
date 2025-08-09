@@ -9,4 +9,4 @@ print("Current Stack:", stack)
 
 # Remove top book
 stack.pop()
-print("After removing top book:", stack)
+print("After removing : ", stack)
